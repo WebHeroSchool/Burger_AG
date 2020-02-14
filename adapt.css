@@ -5,7 +5,7 @@
 }
 @media (min-width:401px) and (max-width:599px) {
 	.wrap__text {
-		font-size: 24px;
+		font-size: 22px;
 	}
 }
 @media (min-width:600px) and (max-width:767px) {
